@@ -1,4 +1,4 @@
-<h1 align="center">Cheikh Ahmed Tidiane</h1>
+<h1 align="center">Cheikh Ahmed Tidiane Ciss</h1>
 <h3 align="center">Ingénieur IA & Machine Learning junior — Deep Learning · IA générative · MLOps</h3>
 
 <p align="center">
@@ -26,32 +26,32 @@ Ce qui me définit : **je ne m'arrête pas à un bon score**. Je cherche à comp
 
 ## Compétences
 
-### 🧠 Deep Learning et IA générative
+###  Deep Learning et IA générative
 - **Frameworks** : TensorFlow, Keras (conception, entraînement, évaluation et sauvegarde de réseaux de neurones).
 - **IA générative** : LLM (GPT-4, Mistral, Llama), **prompt engineering** pour l'exploitation de documents, l'analyse de données et la génération de résultats structurés.
 - **Données pour le Deep Learning** : pipelines de préparation de jeux de données **images** et **textes**, propres et homogènes, prêts pour l'entraînement.
 - **Explicabilité** : SHAP (explications globales et locales, détection d'artefacts dans les données).
 
-### 📐 Fondamentaux mathématiques et optimisation
+###  Fondamentaux mathématiques et optimisation
 - **Algèbre linéaire et calcul différentiel** appliqués au Machine Learning (gradients, hessiennes, fonctions de perte).
 - **Optimisation** : descente de gradient, méthode de Newton du boosting, régularisation, réglage d'hyperparamètres (recherche aléatoire, validation croisée temporelle).
 - **Probabilités et statistiques** : tests non paramétriques (χ², Mann-Whitney), tailles d'effet, correction de Bonferroni, intervalles de confiance par **bootstrap**.
 - **Décision sous coût** : choix de seuils par minimisation d'un coût métier, apprentissage sous déséquilibre extrême.
 
-### 🐍 Python et génie logiciel
+###  Python et génie logiciel
 - **Python avancé** : programmation orientée objet, typage, modules réutilisables, interfaces scikit-learn personnalisées.
 - **Qualité** : tests automatisés avec **pytest** (plus de 460 tests écrits sur mes projets), code modulaire, documentation.
 - **Back-end** : API REST avec **FastAPI**, Pydantic, SQLAlchemy, PostgreSQL, authentification JWT.
 - **Collaboration** : Git, historique propre en Conventional Commits, un commit par fonctionnalité.
 
-### 🚀 MLOps et mise en production
+###  MLOps et mise en production
 - **Conteneurisation** : Docker, Docker Compose (application et base de données orchestrées).
 - **Reproductibilité** : pipelines d'entraînement en une commande, modèles versionnés avec métadonnées (réglages, seuil, métriques, versions).
 - **Base de données en production** : migrations Alembic, données d'initialisation, configuration par variables d'environnement.
 - **Démonstration** : applications **Streamlit** pour exposer un modèle à des utilisateurs métier.
 - **Robustesse** : évaluation sur un jeu de test isolé, suivi de la dérive des données (PSI), tests de résistance au changement de régime.
 
-### 🧰 Autres compétences
+###  Autres compétences
 - **Data science** : pandas, NumPy, scikit-learn, XGBoost, LightGBM, imbalanced-learn.
 - **Visualisation** : Matplotlib, Seaborn, palettes accessibles aux daltoniens.
 - **Web** : HTML, CSS, JavaScript.
@@ -60,7 +60,7 @@ Ce qui me définit : **je ne m'arrête pas à un bon score**. Je cherche à comp
 
 ## Projets phares
 
-### 🛡️ [Détection de fraude Mobile Money](https://github.com/cheikhahmedtidiane/projet_detection_fraude)
+###  [Détection de fraude Mobile Money](https://github.com/cheikhahmedtidiane/projet_detection_fraude)
 Projet de Machine Learning de bout en bout sur 6,3 millions de transactions (0,13 % de fraudes).
 - Protocole **temporel** face à des données non stationnaires, tests statistiques des hypothèses.
 - LightGBM : **88 % du montant fraudé intercepté** sur des jours jamais vus, coût divisé par 7.
@@ -69,7 +69,7 @@ Projet de Machine Learning de bout en bout sur 6,3 millions de transactions (0,1
 
 `Python` `LightGBM` `SHAP` `scikit-learn` `Streamlit` `pytest`
 
-### 🧵 [API de gestion d'un atelier de couture](https://github.com/cheikhahmedtidiane/atelier_couture_api)
+###  [API de gestion d'un atelier de couture](https://github.com/cheikhahmedtidiane/atelier_couture_api)
 API REST complète pour un métier réel : clients, mesures, commandes, paiements, livraisons et statistiques.
 - **44 routes** documentées (Swagger), authentification **JWT**, mots de passe hachés avec Argon2.
 - PostgreSQL 16, SQLAlchemy 2, migrations Alembic.
@@ -77,12 +77,12 @@ API REST complète pour un métier réel : clients, mesures, commandes, paiement
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `JWT` `pytest`
 
-### 🤖 [AI Workspace](https://github.com/cheikhahmedtidiane/AI-Workspace)
+###  [AI Workspace](https://github.com/cheikhahmedtidiane/AI-Workspace)
 Plateforme web donnant accès à différents services d'intelligence artificielle, avec un tableau de bord de suivi de l'usage des modèles de langage (GPT-4, Mistral, Llama).
 
 `JavaScript` `HTML/CSS` `LLM`
 
-### 💼 [AI Business Assistant](https://github.com/cheikhahmedtidiane/ai-business_assistant)
+###  [AI Business Assistant](https://github.com/cheikhahmedtidiane/ai-business_assistant)
 Prompt engineering appliqué à l'entreprise : exploiter des documents, analyser des données, faire du Machine Learning et produire des résultats structurés à l'aide de LLM.
 
 `LLM` `Prompt engineering` `Jupyter`
