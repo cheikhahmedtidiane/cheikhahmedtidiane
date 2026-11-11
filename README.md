@@ -9,11 +9,16 @@
   <img src="https://img.shields.io/badge/FastAPI-Docker-009688?logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/cheikh-ciss-ia">LinkedIn</a> ·
+  <a href="mailto:cisscheikhahmedtidiane31@gmail.com">Email</a>
+</p>
+
 ---
 
 ## À propos
 
-Je conçois des solutions d'**intelligence artificielle de bout en bout** : de la compréhension mathématique des modèles jusqu'à leur **mise en production**. Je me forme à l'IA au sein du programme **P1IA d'Orange Digital Center**, et j'applique dans chaque projet les standards d'un environnement professionnel : code modulaire et testé, protocoles d'évaluation rigoureux, résultats reproductibles et documentés.
+Je conçois des solutions d'**intelligence artificielle de bout en bout** : de la compréhension mathématique des modèles jusqu'à leur **mise en production**. Je suis la formation **Intelligence Artificielle d'Orange Digital Center**, et j'applique dans chaque projet les standards d'un environnement professionnel : code modulaire et testé, protocoles d'évaluation rigoureux, résultats reproductibles et documentés.
 
 Ce qui me définit : **je ne m'arrête pas à un bon score**. Je cherche à comprendre d'où il vient, et à prouver qu'il tiendra en conditions réelles.
 
@@ -109,5 +114,7 @@ Prompt engineering appliqué à l'entreprise : exploiter des documents, analyser
 Je suis ouvert aux opportunités en **IA, Machine Learning et Data Science**. N'hésitez pas à me contacter :
 
 <p>
+  <a href="https://www.linkedin.com/in/cheikh-ciss-ia"><img src="https://img.shields.io/badge/LinkedIn-Cheikh%20Ahmed%20Tidiane-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:cisscheikhahmedtidiane31@gmail.com"><img src="https://img.shields.io/badge/Email-cisscheikhahmedtidiane31%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/cheikhahmedtidiane"><img src="https://img.shields.io/badge/GitHub-cheikhahmedtidiane-181717?logo=github" alt="GitHub"></a>
 </p>
